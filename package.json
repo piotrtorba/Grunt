@@ -1,0 +1,33 @@
+{
+  "name": "kodila-js-jint",
+  "version": "1.0.0",
+  "description": "zadanie 8.3",
+  "main": "index.js",
+  "scripts": {
+    "test": "test-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piotrtorba/JS-Part-1.git"
+  },
+  "keywords": [
+    "js-hint"
+  ],
+  "author": "Piotr Torba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piotrtorba/JS-Part-1/issues"
+  },
+  "homepage": "https://github.com/piotrtorba/JS-Part-1#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  },
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0"
+  }
+}
